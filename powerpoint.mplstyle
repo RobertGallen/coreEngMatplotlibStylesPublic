@@ -1,0 +1,12 @@
+# Powerpoint Matplotlib Style
+# 2021/06/01 - RWG
+# Designed to rescale graphs to Powerpoint friendly dimensions
+
+font.size: 14
+
+figure.figsize: 8.27, 5.12
+axes.labelsize: 16
+axes.titlesize: 16
+xtick.labelsize: 14
+ytick.labelsize: 14
+legend.fontsize: 12
