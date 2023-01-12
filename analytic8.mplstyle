@@ -1,0 +1,6 @@
+# MR5 Matplotlib Style
+# 2020/12/02 - RWG
+# Colour scheme based on the 5 colour scheme shared by Manuele
+# To be composed with coreEng
+
+axes.prop_cycle: cycler('color', ['#000000','#E69F00','#56B4E9', '#009E73', '#F0E442', '#0072B2', '	#D55E00', '#CC79A7'])
